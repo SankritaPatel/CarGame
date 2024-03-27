@@ -12,6 +12,7 @@ pip install pygame
 
 2. **Clone the Repository**: Clone this repository to your local machine.
 ```
+git clone https://github.com/SankritaPatel/CarGame.git
 ```
 3. **Run the Game**: Navigate to the directory where the game files are located and run the Python script ```python car_game.py```.
 
